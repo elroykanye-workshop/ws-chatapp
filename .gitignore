@@ -1,0 +1,69 @@
+
+./chatapp-frontend/# See http://help.github.com/ignore-files/ for more about ignoring files.
+./chatapp-frontend/# compiled output
+./chatapp-frontend/dist
+./chatapp-frontend/tmp
+./chatapp-frontend/out-tsc
+./chatapp-frontend/# Only exists if Bazel was run
+./chatapp-frontend/bazel-out
+./chatapp-frontend/# dependencies
+./chatapp-frontend/node_modules
+./chatapp-frontend/# profiling files
+./chatapp-frontend/chrome-profiler-events*.json
+./chatapp-frontend/# IDEs and editors
+./chatapp-frontend/.idea
+./chatapp-frontend/.project
+./chatapp-frontend/.classpath
+./chatapp-frontend/.c9/
+./chatapp-frontend/*.launch
+./chatapp-frontend/.settings/
+./chatapp-frontend/*.sublime-workspace
+./chatapp-frontend/# IDE - VSCode
+./chatapp-frontend/.vscode/*
+./chatapp-frontend/!.vscode/settings.json
+./chatapp-frontend/!.vscode/tasks.json
+./chatapp-frontend/!.vscode/launch.json
+./chatapp-frontend/!.vscode/extensions.json
+./chatapp-frontend/.history/*
+./chatapp-frontend/# misc
+./chatapp-frontend/.angular/cache
+./chatapp-frontend/.sass-cache
+./chatapp-frontend/connect.lock
+./chatapp-frontend/coverage
+./chatapp-frontend/libpeerconnection.log
+./chatapp-frontend/npm-debug.log
+./chatapp-frontend/yarn-error.log
+./chatapp-frontend/testem.log
+./chatapp-frontend/typings
+./chatapp-frontend/# System Files
+./chatapp-frontend/.DS_Store
+./chatapp-frontend/Thumbs.db
+./chatapp-backend/HELP.md
+./chatapp-backend/target/
+./chatapp-backend/!.mvn/wrapper/maven-wrapper.jar
+./chatapp-backend/!**/src/main/**/target/
+./chatapp-backend/!**/src/test/**/target/
+./chatapp-backend/### STS ###
+./chatapp-backend/.apt_generated
+./chatapp-backend/.classpath
+./chatapp-backend/.factorypath
+./chatapp-backend/.project
+./chatapp-backend/.settings
+./chatapp-backend/.springBeans
+./chatapp-backend/.sts4-cache
+./chatapp-backend/### IntelliJ IDEA ###
+./chatapp-backend/.idea
+./chatapp-backend/*.iws
+./chatapp-backend/*.iml
+./chatapp-backend/*.ipr
+./chatapp-backend/### NetBeans ###
+./chatapp-backend/nbproject/private/
+./chatapp-backend/nbbuild/
+./chatapp-backend/dist/
+./chatapp-backend/nbdist/
+./chatapp-backend/.nb-gradle/
+./chatapp-backend/build/
+./chatapp-backend/!**/src/main/**/build/
+./chatapp-backend/!**/src/test/**/build/
+./chatapp-backend/### VS Code ###
+./chatapp-backend/.vscode/
