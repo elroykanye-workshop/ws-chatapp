@@ -9,7 +9,4 @@ import {NgForm} from "@angular/forms";
 export class AppComponent {
   title = 'chatapp-frontend';
 
-  sendMessage(sendForm: NgForm) {
-    console.log(sendForm.value);
-  }
 }
